@@ -1,8 +1,7 @@
 #ifndef __MY_DATA_TYPES_H__
 #define __MY_DATA_TYPES_H__
 
-#include <stdint.h>											// Standard integers header file.
-
+#include <stdint.h>		// Standard integers header file.
 
 typedef struct
 {
@@ -11,7 +10,6 @@ typedef struct
 	uint16_t Pitch;
 	uint16_t Yaw;
 }JOY_DATA_Type;
-
 
 typedef struct
 {
@@ -24,3 +22,4 @@ typedef struct
 }GYRO_DATA_Type;
 
 #endif
+
