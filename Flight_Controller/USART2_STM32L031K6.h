@@ -3,6 +3,7 @@
 
 #include "stm32l0xx.h"		// Device header
 #include <stdint.h>		// Standard integer data types.
+#include <stdlib.h>
 
 extern void	initUSART2(void);
 extern void	USART2_sendData(uint8_t data);

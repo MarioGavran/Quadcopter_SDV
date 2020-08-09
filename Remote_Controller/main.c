@@ -17,12 +17,9 @@ int main(void)
 	
 	int i=0;
 	
-	
 	while(1)
 	{
-		
 		getMultiADC(JoystickP);
-		
 		
 		u2_sendCh((0xF8U & (((JoystickP->Throttle))>>4)) | (0x00U));
 		u2_sendCh((0xF8U & (((JoystickP->Throttle))<<1)) | (0x01U));
@@ -51,6 +48,6 @@ int main(void)
 		*/
 		while (i<2000)i++;
 		//u2_sendCh(0);
-		
 	}
 }
+

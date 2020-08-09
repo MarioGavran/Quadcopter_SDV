@@ -1,6 +1,7 @@
-#include <stdint.h>								// Standard data types
 #ifndef __MY_DATA_TYPES_H__
 #define __MY_DATA_TYPES_H__
+
+#include <stdint.h>		// Standard integers header file.
 
 typedef struct
 {
@@ -10,15 +11,15 @@ typedef struct
 	uint16_t Yaw;
 }JOY_DATA_Type;
 
-
 typedef struct
 {
-	uint8_t XAxis1;
-	uint8_t XAxis2;
-	uint8_t YAxis1;
-	uint8_t YAxis2;
-	uint8_t ZAxis1;
-	uint8_t ZAxis2;
+	uint8_t XAxisH;
+	uint8_t XAxisL;
+	uint8_t YAxisH;
+	uint8_t YAxisL;
+	uint8_t ZAxisH;
+	uint8_t ZAxisL;
 }GYRO_DATA_Type;
 
 #endif
+
