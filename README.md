@@ -3,7 +3,10 @@
 
 ![](images/ControlLoopDrawing.jpg)
 ![](images/FrameDrawing.jpg)
-![](images/FramePhoto.jpg)
+![](images/FramePhoto1.jpg)
+![](images/FramePhoto2.jpg)
+![](images/MotorPhoto.jpg)
+![](images/McuEscReceiverGyro.jpg) 
 ![](images/Receiver.png) 
 ![](images/responseZoom .png)       
 ![](images/Schematic_dron1.png)       
