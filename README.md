@@ -6,7 +6,7 @@
 ![](images/ControlLoopDrawing.jpg)
 
 ## Frame drawing and a photos of a prototype
-![](images/FrameDrawing.jpg)
+<img src="https://github.com/MarioGavran/Quadcopter_SDV/blob/master/images/FrameDrawing.jpg" width="300">
 ![](images/FramePhoto1.jpg)
 ![](images/FramePhoto2.jpg)
 
