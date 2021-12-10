@@ -7,7 +7,7 @@
 
 ## Frame drawing and a photos of a prototype
 <img src="https://github.com/MarioGavran/Quadcopter_SDV/blob/master/images/FrameDrawing.jpg" width="300"> <img src="https://github.com/MarioGavran/Quadcopter_SDV/blob/master/images/FramePhoto1.jpg" width="500">
-<img src="https://github.com/MarioGavran/Quadcopter_SDV/blob/master/images/FramePhoto2.jpg" width="500">
+<img src="https://github.com/MarioGavran/Quadcopter_SDV/blob/master/images/FramePhoto2.jpg" width="700">
 
 ## 930kv BLDC 150W
 ![](images/MotorPhoto.jpg)
